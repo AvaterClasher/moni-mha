@@ -34,7 +34,7 @@ const App = ({ Component, pageProps }) => {
   return (
     <>
       <Head>
-        <title>Awwwards Rebuilt - Furrow Studio</title>
+        <title>My Hero Academia</title>
         <link rel="icon" href="/favicon.png" />
         <link rel="stylesheet" href="https://use.typekit.net/yzi3byl.css" />
       </Head>

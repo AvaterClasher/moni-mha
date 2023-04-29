@@ -187,6 +187,7 @@ const Menu = () => {
                   transition={transition}
                   loop
                   autoPlay
+                  muted
                 ></Video>
               ))}
             </VideoContainer>

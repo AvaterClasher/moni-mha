@@ -99,7 +99,7 @@ const FeaturedProject = () => {
                 </ProjectTitle>
               </ProjectInfo>
               <VideoPreview>
-                <video loop autoPlay muted src="videos/featured-video.mp4" />
+                <video loop autoPlay muted src="videos/banner.mp4" />
               </VideoPreview>
             </ProjectAnchor>
           </Link>
