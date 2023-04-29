@@ -37,19 +37,26 @@ const About = () => {
       <ContentSection>
         <TextWrapper>
           <h2>
-            Furrow is an integrated, full-service creative studio offering video
-            production, creative development, and post-production services.
+            My Hero Academia (Japanese: 僕のヒーローアカデミア, Hepburn: Boku no
+            Hīrō Akademia) is a Japanese superhero manga series written and
+            illustrated by Kōhei Horikoshi.
           </h2>
           <p>
-            Everybody’s got a story. And we don’t stop until we’ve uncovered
-            what makes yours worth telling. Whether it’s working directly with
-            you, an agency partner, or putting the finishing touches on
-            something special, we’re ready to dig in and get our hands dirty—are
-            you?
+            The story of My Hero Academia is set in a world where currently most
+            of the human population has gained the ability to develop
+            superpowers called &quot; Quirks &quot; (個性, Kosei), which occur
+            in children within the age of four: it is estimated that around 80%
+            of the world population has a Quirk. There are an endless number of
+            Quirks, and it is extremely unlikely to find two people who have the
+            exact same power, unless they are closely related. Among the
+            Quirk-enhanced individuals, a few of them earn the title of Heroes,
+            who cooperate with the authorities in rescue operations and
+            apprehending criminals who abuse their powers, commonly known as
+            Villains.
           </p>
         </TextWrapper>
         <ServicesWrapper>
-          <h3>Services</h3>
+          <h3>Characters</h3>
           {items.map(([item, services], itemIndex) => (
             <React.Fragment key={item}>
               <AccordionToggle

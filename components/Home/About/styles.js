@@ -73,7 +73,7 @@ export const AccordionToggle = styled.button`
   font-size: 0.875rem;
   position: relative;
   display: block;
-  padding: 27px 0 0 35px;
+  padding: 27px 0 0 34px;
   line-height: 15px;
   color: ${({ theme }) => theme.colors.red};
 

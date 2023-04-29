@@ -97,7 +97,7 @@ const Menu = () => {
         <Backdrop onAnimationComplete={handleAnimationComplete}>
           <Container ref={containerRef}>
             <Header>
-              <h3>Projects</h3>
+              <h3>Heroes</h3>
               <CloseButton title="Close" />
             </Header>
             <Navigation>
@@ -143,26 +143,26 @@ const Menu = () => {
               <FooterText
                 className="link"
                 as="a"
-                href="mailto:info@furrow.studio"
+                href="mailto:@avater.clasher"
                 onMouseEnter={addCursorBorder}
                 onMouseLeave={removeCursorBorder}
               >
-                info@furrow.studio
+                mailto:@soumyadip.moni
               </FooterText>
               <FooterText
                 className="link"
                 as="a"
-                href="tel:+1.902.417.0634"
+                href="tel:+91-6297....34"
                 onMouseEnter={addCursorBorder}
                 onMouseLeave={removeCursorBorder}
               >
-                +1.902.417.0634
+                +91-6297....34
               </FooterText>
-              <FooterText className="copyright">© Furrow 2020</FooterText>
+              <FooterText className="copyright">© Moni 2023</FooterText>
               {isMobile && (
                 <Address>
                   <FooterText>
-                    15 Camburhill Ct Unit C<br /> Charlottetown, PE C1E 0E2
+                    Bhubaneswar <br /> Orissa
                   </FooterText>
                 </Address>
               )}

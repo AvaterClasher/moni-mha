@@ -8,11 +8,8 @@ const Content = () => {
       <ContentSection>
         <TextWrapper>
           <Text>
-            Great stories don’t just happen—
-            <br />
-            they need to be uncovered. And we dig deep to discover the great
-            stories that lie just below the surface. Dirt under our fingernails
-            and all.
+            &quot;Remember Why You Started Down This Path, And Let That Memory
+            Carry You Beyond Your Limit.&quot; <br /> – All Might.
           </Text>
         </TextWrapper>
       </ContentSection>
